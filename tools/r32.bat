@@ -1,1 +1,1 @@
-@echo.>"%~dp0rust32"
+@dir /? >NUL 2>"%~dp0rust32"
